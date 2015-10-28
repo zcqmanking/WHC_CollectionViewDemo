@@ -74,7 +74,7 @@ class  WHC_MenuViewParam{
 
 ##运行效果一
 
-![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/WHC_CollectionViewDemo/gif/a.gif)
+![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/gif/a.gif)
 
 ####运行效果一调用方式代码如下：
 ```objective-c
@@ -87,7 +87,7 @@ class  WHC_MenuViewParam{
 
 ##运行效果二
 
-![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/WHC_CollectionViewDemo/gif/b.gif)
+![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/gif/b.gif)
 
 ####运行效果二调用方式代码如下：
 ```objective-c
@@ -102,7 +102,7 @@ class  WHC_MenuViewParam{
 
 ##运行效果三
 
-![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/WHC_CollectionViewDemo/gif/c.gif)
+![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/gif/c.gif)
 
 ####运行效果三调用方式代码如下：
 ```objective-c
@@ -128,7 +128,7 @@ class  WHC_MenuViewParam{
 
 ##运行效果四
 
-![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/WHC_CollectionViewDemo/gif/d.gif)
+![image](https://github.com/netyouli/WHC_CollectionViewDemo/tree/master/gif/d.gif)
 
 ####运行效果四调用方式代码如下：
 ```objective-c
